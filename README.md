@@ -1,4 +1,3 @@
-I've made this repository to upload my solutions to problems by Timus Online Judge
 # How to Find a File
 
 The file is named after the problem number on Timus.
@@ -8,12 +7,12 @@ I've tried to document and comment everything possible.
 
 ## Disclaimer
 
-I haven't solved everything by myself. I've
+I haven't solved everything myself. I've
 
 * Read the discussion boards.
 * Read other repositories.
 * Googled concepts.
-* Taken ideas from Blog posts.
+* Taken ideas from blog posts.
 
 
 ## Notify Me

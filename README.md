@@ -13,13 +13,3 @@ I haven't solved everything myself. I've
 * Read other repositories.
 * Googled concepts.
 * Taken ideas from blog posts.
-
-
-## Notify Me
-
-I'm new to programming and I'm sure that my solutions aren't the best.
-If you find better solutions, please let me know via Twitter, Linkedin or Quora.
-
-* Twitter:-   twitter.com/abhirathmahipal
-* Linkedin:-  linkedin.com/in/abhirath-mahipal-b9b866b3
-* Quora:-     quora.com/profile/Abhirath-Mahipal
